@@ -163,7 +163,10 @@ Add your projects to the end of this List!
 |--------|------------------------------------------------------|------------------------------------------------|----------------|
 |2017/01 |Vulkan graphics engine                                | A graphics engine that runs on Vulkan API      | Planning |
 
+## [zacharyrsmith](https://github.com/zacharyrsmith)
 
-
+|Month   |Project                                               |Description             | Status                |
+|--------|------------------------------------------------------|------------------------------------------------|----------------|
+|2017/01 | [Exercism.io Java challenges](https://github.com/ZacharyRSmith/exercism/tree/master/java) | Solutions to coding challenges | Started  |
 
 ## You?
